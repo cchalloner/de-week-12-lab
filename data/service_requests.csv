@@ -1,0 +1,481 @@
+record_id,requested_units,available_units,asset_age_years,priority,channel,summary,actual_work_hours,escalated
+IT0001,-2.0,10.0,10.0,normal,portal,System fails during startup,1.65,0
+IT0002,6.0,12.0,-1.0,low,email,Intermittent network disconnect,2.48,0
+IT0003,1.0,7.0,8.0,normal,portal,Request for workstation setup,2.65,9
+IT0004,3.0,10.0,3.0,normal,email,Routine account access request,2.18,0
+IT0005,11.0,11.0,5.0,normal,portal,Request for workstation setup,1.71,0
+IT0006,4.0,9.0,0.0,normal,phone,Application freezes during work,2.82,0
+IT0007,8.0,8.0,0.0,normal,portal,Intermittent network disconnect,1.91,0
+IT0008,5.0,8.0,8.0,low,email,Application freezes during work,2.06,0
+IT0009,5.0,3.0,11.0,normal,email,Request for workstation setup,1.1,0
+IT0010,7.0,4.0,8.0,high,phone,Application freezes during work,5.6,1
+IT0011,9.0,3.0,6.0,normal,email,   ,1.74,0
+IT0012,8.0,1.0,10.0,low,email,,4.53,1
+IT0013,11.0,2.0,9.0,high,phone,Intermittent network disconnect,5.94,1
+IT0014,7.0,8.0,10.0,high,email,Intermittent network disconnect,4.49,1
+IT0015,11.0,11.0,13.0,low,,Intermittent network disconnect,2.3,0
+IT0016,12.0,4.0,12.0,low,phone,Routine account access request,4.82,1
+IT0017,2.0,9.0,7.0,normal,email,Routine account access request,2.58,0
+IT0018,4.0,11.0,1.0,low,portal,Request for workstation setup,1.55,0
+IT0019,8.0,2.0,10.0,high,portal,Application freezes during work,5.56,1
+IT0020,3.0,6.0,12.0,low,phone,System fails during startup,5.61,1
+IT0021,2.0,9.0,7.0,high,phone,Request for workstation setup,1.27,0
+IT0022,10.0,1.0,9.0,high,phone,Intermittent network disconnect,4.7,1
+IT0023,5.0,8.0,,normal,phone,Request for workstation setup,1.07,0
+IT0024,10.0,,9.0,high,email,System fails during startup,5.14,1
+IT0025,9.0,3.0,9.0,high,email,Request for workstation setup,2.26,0
+IT0026,2.0,11.0,8.0,low,portal,,1.33,0
+IT0027,5.0,0.0,8.0,low,portal,System fails during startup,4.85,1
+IT0028,7.0,,,normal,phone,Help with software installation,2.87,0
+IT0029,11.0,7.0,8.0,normal,email,System fails during startup,2.97,0
+IT0030,6.0,4.0,0.0,high,portal,System fails during startup,1.3,0
+IT0031,8.0,9.0,1.0,high,phone,Application freezes during work,2.28,0
+IT0032,7.0,6.0,1.0,normal,email,Help with software installation,2.43,0
+IT0033,3.0,9.0,15.0,high,email,Application freezes during work,4.3,1
+IT0034,9.0,1.0,4.0,low,phone,System fails during startup,2.48,0
+IT0035,5.0,0.0,7.0,normal,phone,System fails during startup,4.7,1
+IT0036,1.0,6.0,2.0,low,portal,Request for workstation setup,1.88,0
+IT0037,,12.0,5.0,high,phone,Intermittent network disconnect,5.6,1
+IT0038,3.0,12.0,12.0,normal,email,Request for workstation setup,2.74,0
+IT0039,10.0,7.0,13.0,low,email,Intermittent network disconnect,1.18,0
+IT0040,7.0,3.0,8.0,high,portal,Application freezes during work,4.02,1
+IT0041,3.0,3.0,3.0,high,portal,Request for workstation setup,2.7,0
+IT0042,8.0,3.0,11.0,low,portal,Routine account access request,1.13,0
+IT0043,1.0,11.0,1.0,normal,portal,System fails during startup,2.9,0
+IT0044,4.0,4.0,12.0,high,portal,Application freezes during work,2.43,0
+IT0045,5.0,5.0,0.0,normal,phone,Application freezes during work,1.26,0
+IT0046,5.0,1.0,6.0,normal,portal,System fails during startup,1.7,0
+IT0047,12.0,3.0,9.0,normal,email,Help with software installation,1.26,0
+IT0048,2.0,10.0,5.0,low,phone,,1.81,0
+IT0049,5.0,0.0,1.0,high,phone,System fails during startup,2.46,0
+IT0050,1.0,2.0,7.0,low,phone,System fails during startup,5.26,1
+IT0051,12.0,12.0,9.0,normal,portal,Intermittent network disconnect,4.55,1
+IT0052,5.0,6.0,11.0,high,phone,,5.94,1
+IT0053,7.0,2.0,1.0,normal,portal,Routine account access request,2.31,0
+IT0054,4.0,6.0,,low,phone,Request for workstation setup,5.7,1
+IT0055,7.0,5.0,2.0,high,portal,System fails during startup,5.38,1
+IT0056,4.0,1.0,6.0,normal,email,System fails during startup,2.33,0
+IT0057,9.0,3.0,5.0,low,portal,Application freezes during work,1.95,0
+IT0058,2.0,8.0,11.0,normal,phone,Intermittent network disconnect,1.64,0
+IT0059,5.0,8.0,4.0,high,portal,System fails during startup,4.43,1
+IT0060,12.0,,7.0,high,portal,Help with software installation,2.47,0
+IT0061,9.0,,9.0,normal,phone,Application freezes during work,2.97,0
+IT0062,6.0,6.0,10.0,normal,,Help with software installation,2.94,0
+IT0063,6.0,,5.0,,portal,Application freezes during work,1.67,0
+IT0064,2.0,7.0,13.0,high,email,Application freezes during work,4.97,1
+IT0065,3.0,5.0,7.0,high,email,,1.6,0
+IT0066,6.0,5.0,9.0,low,portal,System fails during startup,2.78,0
+IT0067,1.0,4.0,14.0,low,phone,Routine account access request,2.24,0
+IT0068,9.0,1.0,1.0,low,email,System fails during startup,2.7,0
+IT0069,3.0,11.0,7.0,high,,Help with software installation,1.94,0
+IT0070,,4.0,0.0,high,email,System fails during startup,2.83,0
+IT0071,2.0,1.0,6.0,low,email,Request for workstation setup,2.03,0
+IT0072,8.0,0.0,3.0,normal,phone,Request for workstation setup,2.34,0
+IT0073,7.0,7.0,4.0,normal,portal,Help with software installation,1.39,0
+IT0074,12.0,5.0,8.0,normal,portal,System fails during startup,4.54,1
+IT0075,11.0,2.0,8.0,normal,phone,System fails during startup,2.35,0
+IT0076,10.0,,15.0,high,phone,System fails during startup,4.43,1
+IT0077,3.0,12.0,13.0,,phone,Intermittent network disconnect,1.12,0
+IT0078,4.0,6.0,15.0,normal,portal,Routine account access request,1.52,0
+IT0079,8.0,2.0,,low,phone,System fails during startup,4.78,1
+IT0080,11.0,11.0,15.0,low,email,Intermittent network disconnect,4.8,1
+IT0081,4.0,3.0,9.0,normal,portal,Routine account access request,4.44,1
+IT0082,3.0,7.0,6.0,normal,email,Request for workstation setup,2.37,0
+IT0083,12.0,3.0,11.0,low,portal,Application freezes during work,5.53,1
+IT0084,10.0,0.0,6.0,high,phone,Request for workstation setup,5.68,1
+IT0085,7.0,8.0,9.0,high,phone,Request for workstation setup,1.71,0
+IT0086,11.0,11.0,0.0,low,portal,System fails during startup,1.2,0
+IT0087,4.0,,5.0,normal,phone,Routine account access request,2.92,0
+IT0088,6.0,,4.0,normal,portal,,1.9,0
+IT0089,11.0,1.0,13.0,normal,email,System fails during startup,5.86,1
+IT0090,7.0,9.0,13.0,normal,email,Routine account access request,1.05,0
+IT0091,4.0,,13.0,normal,portal,Help with software installation,1.69,0
+IT0092,11.0,6.0,2.0,normal,email,Request for workstation setup,2.92,0
+IT0093,4.0,0.0,5.0,high,portal,Intermittent network disconnect,4.08,1
+IT0094,8.0,10.0,2.0,low,phone,Intermittent network disconnect,1.56,0
+IT0095,12.0,11.0,7.0,high,portal,Help with software installation,1.27,0
+IT0096,3.0,6.0,7.0,high,portal,Request for workstation setup,1.12,0
+IT0097,10.0,5.0,15.0,normal,portal,Application freezes during work,5.41,1
+IT0098,1.0,3.0,14.0,,phone,Help with software installation,5.98,1
+IT0099,10.0,5.0,7.0,low,,Routine account access request,1.44,0
+IT0100,2.0,1.0,7.0,normal,,Help with software installation,5.43,1
+IT0101,4.0,1.0,4.0,normal,email,Application freezes during work,2.27,0
+IT0102,4.0,10.0,9.0,normal,email,Application freezes during work,2.78,0
+IT0103,6.0,6.0,14.0,normal,portal,Help with software installation,1.8,0
+IT0104,4.0,3.0,0.0,high,email,Routine account access request,4.07,1
+IT0105,4.0,7.0,,normal,portal,Request for workstation setup,1.36,0
+IT0106,2.0,3.0,9.0,normal,portal,System fails during startup,4.98,1
+IT0107,2.0,5.0,5.0,normal,phone,Routine account access request,2.69,0
+IT0108,9.0,10.0,11.0,low,email,Application freezes during work,5.09,1
+IT0109,9.0,8.0,0.0,normal,email,Help with software installation,1.87,0
+IT0110,11.0,9.0,3.0,normal,phone,Intermittent network disconnect,4.13,1
+IT0111,1.0,3.0,14.0,normal,email,System fails during startup,4.02,1
+IT0112,4.0,12.0,13.0,low,phone,,1.99,0
+IT0113,9.0,6.0,0.0,normal,portal,Application freezes during work,1.46,0
+IT0114,3.0,2.0,9.0,high,email,Intermittent network disconnect,4.86,1
+IT0115,6.0,6.0,5.0,high,phone,Help with software installation,2.0,0
+IT0116,5.0,6.0,4.0,normal,email,Application freezes during work,1.36,0
+IT0117,7.0,10.0,13.0,normal,,Request for workstation setup,2.85,0
+IT0118,3.0,9.0,2.0,high,phone,Application freezes during work,2.58,0
+IT0119,10.0,0.0,12.0,high,,Application freezes during work,4.25,1
+IT0120,2.0,,0.0,normal,phone,Request for workstation setup,1.31,0
+IT0121,9.0,2.0,14.0,normal,,Application freezes during work,4.96,1
+IT0122,12.0,6.0,2.0,high,portal,System fails during startup,2.39,0
+IT0123,2.0,1.0,2.0,high,portal,Application freezes during work,2.54,0
+IT0124,10.0,9.0,6.0,low,portal,Application freezes during work,5.36,1
+IT0125,7.0,4.0,6.0,low,phone,Intermittent network disconnect,5.79,1
+IT0126,5.0,4.0,3.0,low,portal,Routine account access request,2.04,0
+IT0127,4.0,8.0,11.0,low,email,Application freezes during work,5.35,1
+IT0128,11.0,,12.0,low,email,Request for workstation setup,1.3,0
+IT0129,9.0,6.0,9.0,normal,email,Routine account access request,1.3,0
+IT0130,2.0,2.0,,normal,email,Application freezes during work,2.6,0
+IT0131,12.0,0.0,8.0,normal,,Help with software installation,5.52,1
+IT0132,3.0,,11.0,low,portal,Request for workstation setup,1.05,0
+IT0133,6.0,3.0,0.0,normal,,Application freezes during work,5.39,1
+IT0134,5.0,10.0,10.0,normal,portal,Routine account access request,2.75,0
+IT0135,9.0,5.0,,normal,,Request for workstation setup,4.44,1
+IT0136,5.0,10.0,3.0,low,phone,System fails during startup,1.15,0
+IT0137,9.0,10.0,0.0,high,portal,Help with software installation,2.59,0
+IT0138,11.0,7.0,10.0,normal,portal,Intermittent network disconnect,5.09,1
+IT0139,9.0,4.0,4.0,normal,portal,Request for workstation setup,1.46,0
+IT0140,2.0,10.0,8.0,normal,phone,System fails during startup,2.66,0
+IT0141,7.0,0.0,5.0,high,phone,Request for workstation setup,1.31,0
+IT0142,8.0,9.0,8.0,high,portal,Request for workstation setup,2.0,0
+IT0143,5.0,6.0,13.0,high,portal,Application freezes during work,5.22,1
+IT0144,11.0,6.0,1.0,low,portal,Request for workstation setup,1.74,0
+IT0145,,3.0,4.0,normal,portal,Routine account access request,1.96,0
+IT0146,8.0,7.0,7.0,normal,email,System fails during startup,1.44,0
+IT0147,10.0,5.0,15.0,low,phone,Intermittent network disconnect,4.52,1
+IT0148,9.0,1.0,6.0,normal,portal,System fails during startup,2.41,0
+IT0149,11.0,8.0,13.0,normal,portal,Help with software installation,1.09,0
+IT0150,10.0,0.0,8.0,low,portal,Help with software installation,2.02,0
+IT0151,9.0,1.0,5.0,,phone,System fails during startup,1.25,0
+IT0152,4.0,1.0,11.0,normal,,System fails during startup,5.3,1
+IT0153,6.0,8.0,9.0,high,email,System fails during startup,4.0,1
+IT0154,11.0,4.0,14.0,low,phone,Intermittent network disconnect,4.11,1
+IT0155,3.0,7.0,7.0,normal,portal,Routine account access request,1.23,0
+IT0156,4.0,2.0,3.0,low,portal,System fails during startup,2.5,0
+IT0157,1.0,6.0,12.0,high,email,,4.29,1
+IT0158,8.0,5.0,0.0,low,phone,Routine account access request,2.2,0
+IT0159,1.0,1.0,1.0,normal,phone,Help with software installation,2.12,0
+IT0160,12.0,11.0,,high,phone,Intermittent network disconnect,5.79,1
+IT0161,10.0,9.0,,normal,email,Application freezes during work,4.84,1
+IT0162,1.0,5.0,7.0,low,portal,Application freezes during work,5.12,1
+IT0163,4.0,6.0,,normal,email,Help with software installation,1.41,0
+IT0164,9.0,1.0,8.0,normal,email,Routine account access request,2.11,0
+IT0165,11.0,5.0,10.0,high,phone,Help with software installation,5.24,1
+IT0166,3.0,1.0,6.0,normal,phone,Help with software installation,2.23,0
+IT0167,4.0,11.0,11.0,normal,portal,,4.18,1
+IT0168,6.0,0.0,3.0,high,portal,System fails during startup,5.35,1
+IT0169,9.0,6.0,9.0,normal,phone,Intermittent network disconnect,4.12,1
+IT0170,6.0,5.0,5.0,normal,email,System fails during startup,5.02,1
+IT0171,11.0,10.0,8.0,high,portal,Request for workstation setup,2.16,0
+IT0172,9.0,11.0,10.0,high,phone,Application freezes during work,4.04,1
+IT0173,,4.0,1.0,low,email,Help with software installation,1.37,0
+IT0174,6.0,11.0,9.0,high,,Request for workstation setup,5.74,1
+IT0175,10.0,0.0,13.0,normal,phone,Request for workstation setup,2.6,0
+IT0176,12.0,0.0,11.0,normal,email,,4.87,1
+IT0177,12.0,12.0,13.0,low,portal,Intermittent network disconnect,4.28,1
+IT0178,8.0,9.0,2.0,,phone,System fails during startup,4.34,1
+IT0179,4.0,8.0,15.0,normal,email,Help with software installation,4.61,1
+IT0180,7.0,8.0,0.0,high,email,Intermittent network disconnect,2.48,0
+IT0181,6.0,0.0,14.0,high,phone,System fails during startup,4.69,1
+IT0182,2.0,1.0,10.0,normal,email,System fails during startup,2.38,0
+IT0183,1.0,7.0,14.0,low,phone,Application freezes during work,1.49,0
+IT0184,,0.0,2.0,high,portal,Request for workstation setup,4.0,1
+IT0185,12.0,1.0,13.0,low,portal,Intermittent network disconnect,5.79,1
+IT0186,10.0,8.0,4.0,high,phone,System fails during startup,5.59,1
+IT0187,2.0,,2.0,normal,email,System fails during startup,1.57,0
+IT0188,1.0,7.0,2.0,normal,email,Routine account access request,1.68,0
+IT0189,6.0,11.0,7.0,normal,phone,Help with software installation,2.32,0
+IT0190,9.0,9.0,7.0,normal,portal,Request for workstation setup,2.74,0
+IT0191,10.0,4.0,15.0,high,phone,System fails during startup,5.85,1
+IT0192,5.0,1.0,2.0,normal,phone,Help with software installation,2.66,0
+IT0193,3.0,1.0,6.0,high,,Intermittent network disconnect,1.39,0
+IT0194,6.0,5.0,6.0,normal,,Help with software installation,2.85,0
+IT0195,6.0,10.0,9.0,,phone,,2.86,0
+IT0196,,4.0,1.0,normal,portal,Routine account access request,2.49,0
+IT0197,3.0,4.0,6.0,high,portal,System fails during startup,5.06,1
+IT0198,2.0,0.0,1.0,,email,System fails during startup,1.38,0
+IT0199,5.0,2.0,6.0,high,phone,Application freezes during work,4.41,1
+IT0200,3.0,4.0,8.0,normal,email,Help with software installation,2.73,0
+IT0201,,3.0,13.0,high,phone,Request for workstation setup,5.45,1
+IT0202,6.0,6.0,11.0,normal,email,Intermittent network disconnect,5.19,1
+IT0203,4.0,10.0,13.0,high,phone,System fails during startup,5.09,1
+IT0204,7.0,11.0,12.0,high,email,Help with software installation,4.54,1
+IT0205,1.0,10.0,13.0,low,email,Request for workstation setup,2.95,0
+IT0206,3.0,2.0,0.0,low,portal,System fails during startup,2.45,0
+IT0207,7.0,,12.0,high,email,Application freezes during work,2.61,0
+IT0208,6.0,1.0,4.0,normal,phone,Request for workstation setup,2.64,0
+IT0209,6.0,12.0,1.0,low,email,Request for workstation setup,1.96,0
+IT0210,9.0,11.0,6.0,normal,phone,Application freezes during work,4.93,1
+IT0211,2.0,8.0,11.0,low,email,Request for workstation setup,4.04,1
+IT0212,10.0,6.0,10.0,normal,portal,Request for workstation setup,2.44,0
+IT0213,3.0,0.0,12.0,low,portal,Application freezes during work,4.49,1
+IT0214,11.0,5.0,2.0,normal,portal,Help with software installation,1.5,0
+IT0215,3.0,8.0,4.0,normal,email,System fails during startup,2.57,0
+IT0216,10.0,6.0,,normal,phone,Application freezes during work,5.3,1
+IT0217,8.0,5.0,13.0,high,,Application freezes during work,5.07,1
+IT0218,,4.0,8.0,low,phone,Intermittent network disconnect,2.4,0
+IT0219,4.0,6.0,8.0,high,email,Request for workstation setup,5.89,1
+IT0220,6.0,2.0,,low,,Routine account access request,6.0,1
+IT0221,9.0,10.0,11.0,high,portal,Request for workstation setup,4.32,1
+IT0222,3.0,6.0,1.0,low,portal,Intermittent network disconnect,1.04,0
+IT0223,8.0,4.0,1.0,,portal,Request for workstation setup,5.05,1
+IT0224,2.0,11.0,2.0,low,phone,Request for workstation setup,2.48,0
+IT0225,3.0,1.0,5.0,normal,portal,Request for workstation setup,2.39,0
+IT0226,7.0,12.0,9.0,high,email,Application freezes during work,4.01,1
+IT0227,12.0,,3.0,high,portal,System fails during startup,5.83,1
+IT0228,,11.0,14.0,high,portal,Application freezes during work,5.31,1
+IT0229,5.0,7.0,9.0,normal,portal,Help with software installation,1.88,0
+IT0230,3.0,7.0,9.0,low,portal,Routine account access request,2.98,0
+IT0231,4.0,12.0,11.0,high,email,Routine account access request,1.21,0
+IT0232,3.0,12.0,13.0,,portal,System fails during startup,5.55,1
+IT0233,7.0,0.0,12.0,low,portal,Routine account access request,1.3,0
+IT0234,4.0,2.0,5.0,high,email,Application freezes during work,1.76,0
+IT0235,5.0,10.0,9.0,normal,phone,Application freezes during work,1.95,0
+IT0236,2.0,4.0,5.0,normal,email,Intermittent network disconnect,2.93,0
+IT0237,9.0,12.0,1.0,normal,phone,Routine account access request,2.25,0
+IT0238,2.0,5.0,7.0,low,portal,,1.76,0
+IT0239,11.0,0.0,12.0,low,portal,Help with software installation,5.38,1
+IT0240,10.0,10.0,9.0,,email,Routine account access request,2.19,0
+IT0241,,,9.0,low,phone,Routine account access request,1.57,0
+IT0242,8.0,7.0,10.0,high,portal,Intermittent network disconnect,2.74,0
+IT0243,12.0,9.0,8.0,low,phone,Routine account access request,2.84,0
+IT0244,9.0,10.0,15.0,normal,portal,Application freezes during work,4.89,1
+IT0245,4.0,3.0,4.0,normal,,Help with software installation,5.07,1
+IT0246,8.0,,6.0,normal,phone,Help with software installation,1.64,0
+IT0247,9.0,7.0,5.0,high,phone,Routine account access request,1.23,0
+IT0248,4.0,3.0,3.0,normal,email,Routine account access request,2.24,0
+IT0249,7.0,3.0,5.0,normal,email,Routine account access request,2.89,0
+IT0250,9.0,5.0,8.0,high,phone,System fails during startup,5.5,1
+IT0251,9.0,11.0,8.0,normal,portal,System fails during startup,2.56,0
+IT0252,12.0,11.0,4.0,high,phone,,2.01,0
+IT0253,9.0,0.0,0.0,high,phone,Application freezes during work,5.16,1
+IT0254,1.0,,6.0,low,portal,System fails during startup,1.9,0
+IT0255,10.0,5.0,2.0,low,phone,,5.81,1
+IT0256,5.0,7.0,3.0,high,email,Application freezes during work,5.16,1
+IT0257,7.0,2.0,11.0,,phone,Intermittent network disconnect,1.32,0
+IT0258,5.0,9.0,7.0,normal,email,Help with software installation,2.48,0
+IT0259,5.0,12.0,13.0,low,portal,Intermittent network disconnect,4.45,1
+IT0260,7.0,8.0,15.0,high,phone,Routine account access request,1.25,0
+IT0261,7.0,9.0,4.0,high,phone,Application freezes during work,5.75,1
+IT0262,3.0,12.0,15.0,normal,phone,Routine account access request,1.04,0
+IT0263,8.0,6.0,,high,portal,Intermittent network disconnect,4.21,1
+IT0264,11.0,7.0,,normal,phone,Help with software installation,2.5,0
+IT0265,1.0,10.0,,normal,portal,Intermittent network disconnect,2.87,0
+IT0266,5.0,12.0,2.0,normal,email,,4.33,1
+IT0267,3.0,10.0,11.0,low,email,,4.28,1
+IT0268,5.0,12.0,4.0,,phone,Routine account access request,1.25,0
+IT0269,11.0,4.0,6.0,normal,email,Help with software installation,1.1,0
+IT0270,1.0,2.0,8.0,high,portal,Application freezes during work,1.08,0
+IT0271,10.0,3.0,9.0,high,email,Help with software installation,5.12,1
+IT0272,2.0,7.0,9.0,normal,email,Help with software installation,1.12,0
+IT0273,3.0,7.0,,normal,phone,Request for workstation setup,2.36,0
+IT0274,5.0,3.0,13.0,,phone,Request for workstation setup,5.38,1
+IT0275,10.0,11.0,11.0,high,phone,Routine account access request,2.64,0
+IT0276,3.0,3.0,2.0,normal,email,Application freezes during work,1.17,0
+IT0277,1.0,3.0,7.0,high,email,Intermittent network disconnect,2.7,0
+IT0278,4.0,8.0,14.0,low,,Intermittent network disconnect,5.76,1
+IT0279,11.0,8.0,7.0,normal,portal,,1.67,0
+IT0280,12.0,2.0,12.0,high,phone,System fails during startup,4.53,1
+IT0281,8.0,5.0,0.0,normal,email,Routine account access request,2.72,0
+IT0282,7.0,7.0,9.0,normal,phone,System fails during startup,5.6,1
+IT0283,10.0,0.0,11.0,high,email,Routine account access request,4.92,1
+IT0284,6.0,0.0,11.0,normal,portal,Request for workstation setup,5.69,1
+IT0285,10.0,4.0,2.0,high,email,Application freezes during work,4.27,1
+IT0286,7.0,3.0,10.0,high,email,System fails during startup,2.79,0
+IT0287,1.0,0.0,2.0,normal,portal,Request for workstation setup,3.0,0
+IT0288,,7.0,10.0,normal,portal,Application freezes during work,1.59,0
+IT0289,4.0,6.0,13.0,high,portal,Routine account access request,5.33,1
+IT0290,,7.0,,high,phone,Application freezes during work,5.12,1
+IT0291,5.0,11.0,12.0,normal,email,System fails during startup,4.92,1
+IT0292,6.0,4.0,7.0,normal,portal,System fails during startup,1.9,0
+IT0293,12.0,3.0,7.0,normal,phone,Intermittent network disconnect,4.06,1
+IT0294,5.0,11.0,15.0,high,portal,System fails during startup,2.49,0
+IT0295,8.0,10.0,2.0,normal,phone,Application freezes during work,2.9,0
+IT0296,5.0,11.0,11.0,normal,phone,Intermittent network disconnect,1.9,0
+IT0297,7.0,4.0,7.0,high,email,Help with software installation,1.05,0
+IT0298,12.0,0.0,4.0,,email,System fails during startup,4.4,1
+IT0299,4.0,2.0,7.0,normal,email,Routine account access request,2.26,0
+IT0300,,3.0,7.0,low,email,Routine account access request,2.13,0
+IT0301,,1.0,1.0,normal,email,Intermittent network disconnect,5.45,1
+IT0302,11.0,8.0,9.0,normal,phone,Help with software installation,2.1,0
+IT0303,5.0,4.0,12.0,,email,Help with software installation,1.89,0
+IT0304,4.0,1.0,9.0,normal,email,Application freezes during work,1.1,0
+IT0305,8.0,1.0,8.0,normal,phone,Help with software installation,4.4,1
+IT0306,4.0,11.0,5.0,low,phone,Help with software installation,2.54,0
+IT0307,9.0,2.0,10.0,high,email,Application freezes during work,1.65,0
+IT0308,7.0,2.0,2.0,normal,phone,Intermittent network disconnect,5.71,1
+IT0309,7.0,7.0,7.0,high,email,System fails during startup,2.55,0
+IT0310,4.0,1.0,7.0,low,,Help with software installation,2.31,0
+IT0311,2.0,5.0,7.0,high,email,Help with software installation,1.6,0
+IT0312,10.0,12.0,,high,email,Routine account access request,2.54,0
+IT0313,2.0,12.0,8.0,low,phone,Help with software installation,1.66,0
+IT0314,11.0,7.0,5.0,normal,email,Routine account access request,2.85,0
+IT0315,11.0,11.0,3.0,low,portal,Intermittent network disconnect,2.17,0
+IT0316,1.0,7.0,12.0,low,portal,Application freezes during work,2.48,0
+IT0317,1.0,12.0,7.0,low,email,System fails during startup,2.29,0
+IT0318,5.0,11.0,15.0,normal,phone,Application freezes during work,4.49,1
+IT0319,6.0,11.0,,low,phone,System fails during startup,1.31,0
+IT0320,2.0,12.0,0.0,normal,portal,Request for workstation setup,2.89,0
+IT0321,3.0,3.0,6.0,low,portal,Request for workstation setup,1.63,0
+IT0322,7.0,11.0,11.0,normal,email,System fails during startup,2.88,0
+IT0323,10.0,,7.0,high,email,System fails during startup,5.8,1
+IT0324,11.0,10.0,9.0,normal,email,Routine account access request,5.9,1
+IT0325,6.0,8.0,6.0,high,phone,System fails during startup,2.42,0
+IT0326,5.0,2.0,5.0,,portal,,2.17,0
+IT0327,12.0,12.0,12.0,normal,phone,Routine account access request,2.27,0
+IT0328,3.0,11.0,11.0,low,portal,Routine account access request,2.24,0
+IT0329,,4.0,7.0,high,portal,Request for workstation setup,5.59,1
+IT0330,3.0,12.0,5.0,normal,email,Request for workstation setup,2.6,0
+IT0331,9.0,8.0,3.0,high,phone,System fails during startup,2.23,0
+IT0332,5.0,2.0,13.0,normal,phone,Routine account access request,2.34,0
+IT0333,11.0,5.0,,high,portal,Request for workstation setup,2.57,0
+IT0334,11.0,12.0,3.0,low,portal,Request for workstation setup,2.4,0
+IT0335,2.0,9.0,1.0,high,portal,Help with software installation,1.9,0
+IT0336,10.0,8.0,4.0,normal,portal,Application freezes during work,1.6,0
+IT0337,9.0,5.0,4.0,normal,email,Help with software installation,2.69,0
+IT0338,11.0,12.0,0.0,,email,Help with software installation,2.06,0
+IT0339,5.0,7.0,8.0,low,phone,Help with software installation,1.85,0
+IT0340,10.0,4.0,13.0,low,portal,,4.83,1
+IT0341,7.0,4.0,11.0,normal,portal,Intermittent network disconnect,4.92,1
+IT0342,12.0,6.0,6.0,normal,phone,Routine account access request,1.15,0
+IT0343,5.0,10.0,3.0,normal,phone,Request for workstation setup,5.7,1
+IT0344,,9.0,15.0,high,phone,System fails during startup,4.32,1
+IT0345,10.0,10.0,2.0,normal,email,Help with software installation,1.57,0
+IT0346,9.0,4.0,6.0,normal,portal,Routine account access request,4.42,1
+IT0347,4.0,8.0,9.0,normal,email,Routine account access request,5.67,1
+IT0348,1.0,0.0,0.0,,portal,Routine account access request,1.72,0
+IT0349,3.0,6.0,9.0,normal,phone,,1.72,0
+IT0350,5.0,8.0,8.0,high,phone,System fails during startup,4.88,1
+IT0351,7.0,,13.0,high,phone,Help with software installation,1.76,0
+IT0352,8.0,12.0,2.0,low,,Application freezes during work,4.5,1
+IT0353,1.0,8.0,0.0,normal,email,Request for workstation setup,2.91,0
+IT0354,2.0,6.0,13.0,normal,email,Intermittent network disconnect,4.73,1
+IT0355,10.0,2.0,3.0,high,portal,System fails during startup,4.12,1
+IT0356,7.0,5.0,,high,portal,System fails during startup,4.99,1
+IT0357,2.0,2.0,13.0,,portal,System fails during startup,5.4,1
+IT0358,12.0,,11.0,low,portal,Help with software installation,4.17,1
+IT0359,3.0,2.0,13.0,normal,email,Intermittent network disconnect,4.89,1
+IT0360,7.0,5.0,12.0,normal,phone,,2.5,0
+IT0361,10.0,4.0,7.0,high,portal,System fails during startup,4.07,1
+IT0362,8.0,2.0,14.0,high,phone,System fails during startup,2.9,0
+IT0363,5.0,11.0,2.0,low,phone,Intermittent network disconnect,2.79,0
+IT0364,5.0,0.0,1.0,,,Help with software installation,2.82,0
+IT0365,8.0,6.0,14.0,normal,phone,Request for workstation setup,2.4,0
+IT0366,9.0,12.0,8.0,high,portal,Application freezes during work,4.31,1
+IT0367,9.0,7.0,7.0,low,portal,Intermittent network disconnect,1.84,0
+IT0368,,3.0,2.0,high,,Intermittent network disconnect,2.4,0
+IT0369,1.0,7.0,13.0,normal,email,System fails during startup,1.77,0
+IT0370,11.0,11.0,3.0,normal,phone,Routine account access request,2.74,0
+IT0371,10.0,9.0,1.0,normal,,System fails during startup,4.86,1
+IT0372,,3.0,11.0,low,phone,Request for workstation setup,2.13,0
+IT0373,10.0,4.0,13.0,normal,email,Routine account access request,1.58,0
+IT0374,11.0,,1.0,high,email,Routine account access request,4.41,1
+IT0375,,12.0,14.0,low,email,Routine account access request,2.18,0
+IT0376,8.0,6.0,7.0,normal,email,Application freezes during work,2.78,0
+IT0377,1.0,7.0,7.0,normal,phone,Intermittent network disconnect,2.6,0
+IT0378,5.0,12.0,9.0,high,phone,Request for workstation setup,1.1,0
+IT0379,10.0,3.0,11.0,high,portal,System fails during startup,4.39,1
+IT0380,2.0,3.0,9.0,high,email,Intermittent network disconnect,2.8,0
+IT0381,,7.0,,high,email,Intermittent network disconnect,4.03,1
+IT0382,1.0,1.0,2.0,low,phone,Request for workstation setup,2.35,0
+IT0383,12.0,6.0,10.0,low,email,Request for workstation setup,1.71,0
+IT0384,4.0,4.0,13.0,high,email,Intermittent network disconnect,2.71,0
+IT0385,6.0,2.0,4.0,low,portal,Help with software installation,1.64,0
+IT0386,9.0,8.0,,high,,Intermittent network disconnect,2.96,0
+IT0387,3.0,2.0,3.0,normal,portal,Application freezes during work,2.08,0
+IT0388,2.0,,14.0,normal,email,Intermittent network disconnect,1.65,0
+IT0389,3.0,9.0,4.0,low,email,Application freezes during work,5.92,1
+IT0390,10.0,,,normal,email,Intermittent network disconnect,5.71,1
+IT0391,8.0,4.0,8.0,normal,portal,System fails during startup,2.47,0
+IT0392,3.0,4.0,3.0,high,email,,1.39,0
+IT0393,4.0,11.0,8.0,low,email,Help with software installation,2.37,0
+IT0394,8.0,11.0,9.0,normal,email,Intermittent network disconnect,4.25,1
+IT0395,10.0,5.0,15.0,high,email,Intermittent network disconnect,1.64,0
+IT0396,,12.0,12.0,normal,portal,,1.37,0
+IT0397,2.0,11.0,5.0,normal,portal,,1.28,0
+IT0398,8.0,6.0,,normal,email,System fails during startup,5.62,1
+IT0399,10.0,12.0,6.0,high,email,Application freezes during work,2.03,0
+IT0400,4.0,2.0,1.0,low,portal,Help with software installation,5.39,1
+IT0401,11.0,11.0,7.0,normal,portal,Help with software installation,1.0,0
+IT0402,6.0,1.0,10.0,high,portal,Application freezes during work,1.33,0
+IT0403,8.0,12.0,14.0,normal,phone,,1.77,0
+IT0404,1.0,12.0,6.0,low,portal,Request for workstation setup,2.79,0
+IT0405,11.0,3.0,9.0,normal,email,Intermittent network disconnect,1.24,0
+IT0406,8.0,0.0,14.0,normal,phone,Routine account access request,1.7,0
+IT0407,2.0,12.0,0.0,normal,email,Request for workstation setup,2.56,0
+IT0408,10.0,10.0,4.0,normal,phone,,1.97,0
+IT0409,4.0,5.0,15.0,normal,email,Routine account access request,1.99,0
+IT0410,5.0,5.0,14.0,normal,email,Help with software installation,2.34,0
+IT0411,,11.0,3.0,high,portal,Request for workstation setup,1.51,0
+IT0412,8.0,11.0,7.0,high,phone,,1.72,0
+IT0413,5.0,0.0,5.0,normal,email,Routine account access request,1.69,0
+IT0414,1.0,12.0,14.0,,portal,System fails during startup,2.36,0
+IT0415,1.0,12.0,4.0,,email,Application freezes during work,2.47,0
+IT0416,1.0,12.0,13.0,normal,email,Routine account access request,1.69,0
+IT0417,,5.0,9.0,normal,phone,Request for workstation setup,1.35,0
+IT0418,1.0,10.0,5.0,normal,,Routine account access request,2.23,0
+IT0419,3.0,1.0,2.0,normal,email,Application freezes during work,1.79,0
+IT0420,10.0,9.0,3.0,low,portal,Intermittent network disconnect,4.67,1
+IT0421,7.0,5.0,8.0,normal,email,Intermittent network disconnect,2.2,0
+IT0422,4.0,,2.0,high,portal,Request for workstation setup,1.59,0
+IT0423,1.0,1.0,14.0,normal,phone,Intermittent network disconnect,2.63,0
+IT0424,,11.0,10.0,normal,phone,Help with software installation,2.6,0
+IT0425,7.0,,8.0,normal,email,Routine account access request,1.41,0
+IT0426,10.0,8.0,14.0,high,email,Routine account access request,4.75,1
+IT0427,9.0,7.0,2.0,normal,phone,Routine account access request,2.66,0
+IT0428,7.0,12.0,12.0,high,portal,Intermittent network disconnect,1.63,0
+IT0429,6.0,7.0,0.0,,phone,System fails during startup,5.43,1
+IT0430,9.0,4.0,5.0,normal,email,Request for workstation setup,5.7,1
+IT0431,,3.0,5.0,normal,phone,Help with software installation,2.51,0
+IT0432,5.0,2.0,11.0,low,email,Routine account access request,1.77,0
+IT0433,9.0,11.0,3.0,,email,System fails during startup,1.21,0
+IT0434,9.0,4.0,15.0,high,phone,,4.86,1
+IT0435,3.0,5.0,15.0,low,portal,Application freezes during work,4.05,1
+IT0436,5.0,6.0,,,phone,Application freezes during work,5.12,1
+IT0437,3.0,5.0,1.0,low,phone,Application freezes during work,1.31,0
+IT0438,9.0,1.0,,normal,portal,Application freezes during work,5.8,1
+IT0439,4.0,4.0,3.0,high,portal,Application freezes during work,2.39,0
+IT0440,4.0,5.0,4.0,normal,phone,Request for workstation setup,2.35,0
+IT0441,4.0,12.0,1.0,high,email,System fails during startup,1.65,0
+IT0442,8.0,4.0,5.0,normal,portal,Application freezes during work,4.17,1
+IT0443,11.0,0.0,4.0,normal,email,Application freezes during work,5.25,1
+IT0444,12.0,11.0,5.0,high,,Intermittent network disconnect,4.8,1
+IT0445,12.0,2.0,9.0,high,portal,Intermittent network disconnect,2.61,0
+IT0446,2.0,4.0,11.0,normal,portal,Intermittent network disconnect,1.47,0
+IT0447,10.0,8.0,2.0,low,email,Application freezes during work,5.38,1
+IT0448,2.0,4.0,9.0,normal,email,Help with software installation,1.63,0
+IT0449,10.0,5.0,5.0,normal,phone,Help with software installation,5.64,1
+IT0450,5.0,2.0,12.0,normal,email,Intermittent network disconnect,5.68,1
+IT0451,8.0,2.0,6.0,high,portal,Intermittent network disconnect,5.6,1
+IT0452,9.0,3.0,4.0,normal,phone,Request for workstation setup,2.86,0
+IT0453,12.0,11.0,1.0,normal,portal,Application freezes during work,2.61,0
+IT0454,11.0,7.0,15.0,normal,portal,Routine account access request,1.39,0
+IT0455,12.0,0.0,9.0,normal,email,,5.23,1
+IT0456,6.0,5.0,8.0,low,portal,Application freezes during work,4.26,1
+IT0457,8.0,12.0,3.0,normal,portal,Routine account access request,1.68,0
+IT0458,10.0,12.0,5.0,normal,portal,System fails during startup,4.3,1
+IT0459,2.0,0.0,8.0,,phone,System fails during startup,2.23,0
+IT0460,,,7.0,low,portal,System fails during startup,2.8,0
+IT0461,8.0,8.0,4.0,high,portal,Request for workstation setup,2.75,0
+IT0462,12.0,10.0,7.0,normal,portal,System fails during startup,5.84,1
+IT0463,4.0,10.0,1.0,normal,portal,Help with software installation,1.76,0
+IT0464,,3.0,8.0,low,phone,System fails during startup,1.78,0
+IT0465,2.0,7.0,0.0,low,portal,System fails during startup,2.8,0
+IT0466,12.0,1.0,6.0,high,portal,Routine account access request,4.34,1
+IT0467,10.0,0.0,12.0,normal,portal,System fails during startup,4.02,1
+IT0468,5.0,1.0,,low,phone,System fails during startup,2.53,0
+IT0469,6.0,,4.0,low,,Help with software installation,1.46,0
+IT0470,9.0,2.0,2.0,normal,phone,System fails during startup,3.0,0
+IT0471,12.0,2.0,13.0,normal,phone,Request for workstation setup,1.76,0
+IT0472,1.0,10.0,8.0,,phone,Routine account access request,4.55,1
+IT0473,3.0,10.0,15.0,low,email,Routine account access request,1.65,0
+IT0474,8.0,4.0,0.0,low,email,Routine account access request,2.88,0
+IT0475,5.0,10.0,2.0,high,email,System fails during startup,1.45,0
+IT0476,11.0,1.0,1.0,high,portal,Application freezes during work,5.02,1
+IT0477,1.0,0.0,5.0,normal,phone,Request for workstation setup,1.3,0
+IT0478,6.0,0.0,9.0,normal,portal,Help with software installation,1.64,0
+IT0479,9.0,1.0,3.0,normal,phone,Request for workstation setup,5.12,1
+IT0480,,1.0,9.0,,portal,Help with software installation,1.29,0
